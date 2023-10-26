@@ -10,7 +10,7 @@
 > 📫 How to reach me:
 >> * [Email](mailto:akintadetemi19@gmail.com)
 >> * [WhatsApp](https:api.whatsapp.com?phone=08135189838)
->> * [LinkedIn](https://www.linkedin.com/in/akintade-temiloluwa-4b6798254]
+>> * [LinkedIn](https://www.linkedin.com/in/temiloluwa-akintade-4b6798254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 >> * [IG](https://instagram.com/temi_tenderluxe?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
 - 😄 Pronouns: _he/him_
 - ⚡ Fun fact: **I love fixing bugs 🌚** 
