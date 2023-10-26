@@ -1,17 +1,16 @@
-### Hi there 👋
+# Hi there 👋...
 
-<!--
-**Temi-Tade/Temi-Tade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## It is me, Temiloluwa.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![An image of @temitade's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/temitade)](https://holopin.io/@temitade)
+- 🔭 I’m currently working on *Frontend Web Development*
+- 🌱 I’m currently learning *asynchronous JavaScript*
+- 👯 I’m looking to collaborate on *Web development open source projects*
+- 🤔 I’m looking for help with *APIs and asynchronous JavaScript*
+- 💬 Ask me about *front end web development*
+> 📫 How to reach me:
+>> * [Email] (mailto:akintadetemi19@gmail.com)
+>> * [WhatsApp] (https:api.whatsapp.com?phone=08135189838)
+>> * [LinkedIn] (https://www.linkedin.com/in/akintade-temiloluwa-4b6798254]
+>> * [IG] (https://instagram.com/temi_tenderluxe?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
+- 😄 Pronouns: _he/him_
+- ⚡ Fun fact: **I love fixing bugs 🌚** 
