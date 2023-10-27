@@ -1,6 +1,6 @@
 <h1>Hi there 👋...</h1>
 <h2>Welcome to my Matrix 🧑‍💻</h2>
-<img src="./images/matrix-polyform-labs.gif">
+<img src="./images/matrix-polyform-labs.gif" width="256">
 
 ### ℹ️ About me
 - 🔭 I’m currently working on *Frontend Web Development*
@@ -16,3 +16,4 @@
 <a href="https://api.whatsapp.com?phone=08135189838"><img src="./images/Wa.png" width="50"></a>
 <a href="https://www.linkedin.com/in/temiloluwa-akintade-4b6798254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="./images/LinkedIn.png" width="50"></a>
 <a href="https://instagram.com/temi_tenderluxe?utm_source=qr&igshid=MzNlNGNkZWQ4Mg=="><img src="./images/Ig.jpeg" width="50"></a>
+<a href="https://twitter.com/Temi_tade2805?t=h8nSHNKEviZ6OeZt9pDPCg&s=09"><img src="./images/X.png" width="50"></a>
