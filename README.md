@@ -1,7 +1,8 @@
 <h1>Hi there 👋...</h1>
+<h2>Welcome to my Matrix 🧑‍💻</h2>
+<img src="./images/matrix-polyform-labs.gif">
 
-<h2>Welcome to my Hub 😌</h2>
-
+### ℹ️ About me
 - 🔭 I’m currently working on *Frontend Web Development*
 - 🌱 I’m currently learning *asynchronous JavaScript*
 - 👯 I’m looking to collaborate on *Web development open source projects*
