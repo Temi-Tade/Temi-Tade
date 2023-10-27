@@ -12,8 +12,7 @@
 - ⚡ Fun fact: **I love fixing bugs 🌚**
 
 ### 📫 How to reach me:
->> * <a href="mailto:akintadetemi19@gmail.com">Email</a>
->> * <a href="https://api.whatsapp.com?phone=08135189838">WhatsApp</a>
->> * <a href="https://www.linkedin.com/in/temiloluwa-akintade-4b6798254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
->> * <a href="https://instagram.com/temi_tenderluxe?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==">Instagram</a>
-
+<a href="mailto:akintadetemi19@gmail.com"><img src="./images/Gm.png" width="50"></a>
+<a href="https://api.whatsapp.com?phone=08135189838"><img src="./images/Wa.png" width="50"></a>
+<a href="https://www.linkedin.com/in/temiloluwa-akintade-4b6798254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="./images/LinkedIn.png" width="50"></a>
+<a href="https://instagram.com/temi_tenderluxe?utm_source=qr&igshid=MzNlNGNkZWQ4Mg=="><img src="./images/Ig.jpeg" width="50"></a>
