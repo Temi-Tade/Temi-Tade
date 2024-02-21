@@ -1,6 +1,6 @@
 <h1>Hi there 👋...</h1>
 <h2>Welcome to my Matrix 🧑‍💻</h2>
-<img src="./images/matrix-polyform-labs.gif" width="256">
+<img src="./images/matrix-polyform-labs.gif" width="256"><a href="https://app.daily.dev/nxgn"><img src="https://api.daily.dev/devcards/v2/MmUJcJwBgcfzON2jb9oBM.png?type=default&r=xtb" width="356" alt="NXGn's Dev Card"/></a>
 
 ### ℹ️ About me
 - 🔭 I’m currently working on *Frontend Web Development*
