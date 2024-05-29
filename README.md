@@ -10,8 +10,11 @@
 - 💬 Ask me about *front end web development*
 - 😄 Pronouns: _he/him/his_
 - ⚡ Fun fact: **I love fixing bugs 🌚**
-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Temi-Tade&layout=compact&theme=dark"/>
-- <img src="https://github-readme-stats.vercel.app/api?username=Temi-Tade&show=stars,prs_merged,prs_merged_percentage&show_icons=true&theme=dark"/>
+---
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Temi-Tade&layout=compact&theme=dark"/>
+  
+---
+  <img src="https://github-readme-stats.vercel.app/api?username=Temi-Tade&show=stars,prs_merged,prs_merged_percentage&show_icons=true&theme=dark"/>
 
 ### 📫 How to reach me:
 <a href="mailto:akintadetemi19@gmail.com"><img src="./images/Gm.png" width="50"></a>
