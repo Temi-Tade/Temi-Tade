@@ -1,13 +1,13 @@
 <h1>Hi there 👋...</h1>
 <h2>Welcome to my Matrix 🧑‍💻</h2>
 <img src="./images/matrix-polyform-labs.gif" width="256">
+
 ### ℹ️ About me
 - 🔭 I’m currently working on *Frontend Web Development*
 - 🌱 I’m currently learning *asynchronous JavaScript*
 - 👯 I’m looking to collaborate on *Web development open source projects*
 - 🤔 I’m looking for help with *APIs and asynchronous JavaScript*
 - 💬 Ask me about *front end web development*
-- 😄 Pronouns: _he/him/his_
 - ⚡ Fun fact: **I love fixing bugs 🌚**
 ---
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Temi-Tade&layout=compact&theme=dark"/>
