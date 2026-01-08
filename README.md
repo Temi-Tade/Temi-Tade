@@ -4,10 +4,11 @@
 ## Tools
 > **JavaScript, React, Svelte, TypeScript, TailwindCSS, Solidity**
 ---
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Temi-Tade&layout=compact&theme=dark"/>
   
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Temi-Tade&show_icons=true&theme=radical)<br>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Temi-Tade&theme=radical)<br>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Temi-Tade&layout=compact&theme=radical)
 ---
-  <img src="https://github-readme-stats.vercel.app/api?username=Temi-Tade&show=stars,prs_merged,prs_merged_percentage&show_icons=true&theme=dark"/>
 
 ### 📫 Contacts:
 <a href="mailto:akintadetemi19@gmail.com"><img src="./images/Gm.png" width="50"></a>
