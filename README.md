@@ -34,7 +34,7 @@ I build fast, responsive user interfaces and production-grade decentralized appl
 
 ### 🚀 **Featured Projects**
 
-- ⚡ **[RivETH](https://github.com/Temi-Tade/RivETH)** — Browser-native Ethereum smart contract development toolkit.
+- ⚡ **[RivETH](https://github.com/Temi-Tade/RivETH)** — Browser-native Ethereum smart contract development toolkit (listed on Alchemy dApp store).
 - 📈 **[Skaylar](https://github.com/Temi-Tade/Skaylar)** — A tool for analyzing and visualizing first-digit distributions in a dataset using Benford's Law.
 - 🐍 **[Medusa](https://github.com/Temi-Tade/medusa)** — A password-based file encryption tool with lossless decryption.
 ---
